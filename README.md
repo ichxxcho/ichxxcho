@@ -1,9 +1,5 @@
 <h1 align="center">✨ สวัสดีค่ะ ชื่อช่อเพชร คำนวนมิตร (ชื่อเล่น ไอซ์) ค่ะ ✨</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&duration=3000&center=true&vCenter=true&color=FF69B4&lines=Frontend+Developer+%2B+Testing+Enthusiast💻;Playwright+Lover%E2%9C%A8;Testpad+Explorer🔍;CS+Student+who+loves+Clean+Code%F0%9F%92%96" />
-</p>
-
 ---
 
 ## 👩‍💻 เกี่ยวกับฉัน
