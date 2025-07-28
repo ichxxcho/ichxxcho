@@ -31,7 +31,7 @@
 
 - 📧 Email: chotphetkm@gmail.com  
 - 💬 [Line ID: ice_chophed](https://line.me/ti/p/~ice_chophed)
-- 🌐 [Portfolio Website]((https://linktr.ee/Chophet_Khamnuanmit?utm_source=qr_code)) 
+- 🌐 [Portfolio Website](https://linktr.ee/Chophet_Khamnuanmit?utm_source=qr_code) 
 
 ---
 
